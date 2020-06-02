@@ -1,0 +1,55 @@
+name;ADAPT;SAMPA1;SAMPA2;SAMPA3;CGN;CGN2
+p_in_pak;p;p;p;p;p;p
+b_in_bak;b;b;b;b;b;b
+t_in_tak;t;t;t;t;t;t
+d_in_dak;d;d;d;d;d;d
+k_in_kap;k;k;k;k;k;k
+g_in_goal;g;g;g;g;g;g
+f_in_fel;f;f;f;f;f;f
+v_in_vel;v;v;v;v;v;v
+s_in_sein;s;s;s;s;s;s
+z_in_zijn;z;z;z;z;z;z
+sh_in_show;S;S;S;S;S;S
+ge_in_bagage;Z;Z;Z;Z;Z;Z
+g_in_goed;G;G;G;G;G;G
+ch_in_toch;x;x;x;x;x;x
+h_in_hand;h;h;h;h;h;h
+m_in_met;m;m;m;m;m;m
+n_in_net;n;n;n;n;n;n
+ng_in_bang;N;N;N;N;N;N
+l_in_land;l;l;l;l;l;l
+r_in_rand;r;r;r;r;r;r
+w_in_wit;w;w;w;w;w;w
+j_in_ja;j;j;j;j;j;j
+gn_in_campagne;J;n j;n j;n j;J;J
+ie_in_vier;i;i;i;i;i;i
+ee_in_veer;e;e;e:;e:;e;e
+aa_in_naam;a;a;a:;a:;a;a
+oo_in_voor;o;o;o:;o:;o;o
+oe_in_voer;u;u;u;u;u;u
+uu_in_vuur;y;y;y;y;y;y
+eu_in_deur;2;UNK;2:;2:;2;EU
+i_in_pit;I;I;I;I;I;I
+e_in_pet;E;E;E;E;E;E
+a_in_pad;A;A;A;A;A;A
+o_in_pot;O;O;O;O;O;O
+u_in_put;Y;Y;Y;Y;Y;U
+e_in_gemak;@;@;@;@;@;@
+ij_in_fijn;&;Ei;Ei;Ei;E+;EI
+ui_in_huis;1;9y;9y;9y;Y+;UI
+ou_in_goud;3;Au;Au;Au;A+;AU
+e_in_creme;4;E:;E:;UNK;E:;E2
+eu_in_freule;5;9;9;UNK;Y:;O j
+o_in_roze;6;O:;O:;UNK;O:;O
+in_in_bassin;7;UNK;UNK;UNK;E~;E n
+en_in_genre;8;UNK;UNK;UNK;A~;A n
+on_in_chanson;9;UNK;UNK;UNK;O~;O n
+un_in_vingt-et-un;%;UNK;UNK;UNK;Y~;U n
+aai_in_draai;a j;a j;a:i;a: j;a j;a j
+ooi_in_mooi;o j;o j;o:i;o: j;o j;o j
+ieuw_in_nieuw;i w;i w;iu;i w;i w;i w
+uw_in_duw;y w;y w;yu;y w;y w;y w
+eeuw_in_sneeuw;e w;e w;e:u;e: w;e w;e w
+oei_in_roeiboot;u j;u j;ui;u j;u j;u j
+[SPN];[SPN];[SPN];[SPN];[SPN];[SPN];[SPN]
+SIL;SIL;SIL;SIL;SIL;SIL;SIL
