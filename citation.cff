@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: If you use this software, please cite it as below.
+title: Scripts to phoneme strings from one Computer Phonetic Alphabet in the other
+authors:
+  - family-names: Harmsen
+    given-names: Wieke
+    orcid: " https://orcid.org/0000-0002-3329-2201"
+version: 1.0
+date-released: "2024-01-30"
+repository-code: "https://github.com/WiekeHarmsen/CPA-conversion"
